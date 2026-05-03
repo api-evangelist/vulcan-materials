@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "vulcan": "https://vulcan-materials.com/vocab/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Organization": "schema:Organization",
+    "Corporation": "schema:Corporation",
+    "Product": "schema:Product",
+    "Place": "schema:Place",
+
+    "VulcanMaterials": {
+      "@id": "vulcan:VulcanMaterials",
+      "@type": "schema:Corporation"
+    },
+
+    "Aggregate": {
+      "@id": "vulcan:Aggregate",
+      "@type": "schema:Product"
+    },
+
+    "Quarry": {
+      "@id": "vulcan:Quarry",
+      "@type": "schema:Place"
+    },
+
+    "CrushedStone": {
+      "@id": "vulcan:CrushedStone",
+      "@type": "vulcan:Aggregate"
+    },
+
+    "Sand": {
+      "@id": "vulcan:Sand",
+      "@type": "vulcan:Aggregate"
+    },
+
+    "Gravel": {
+      "@id": "vulcan:Gravel",
+      "@type": "vulcan:Aggregate"
+    },
+
+    "AsphaltMix": {
+      "@id": "vulcan:AsphaltMix",
+      "@type": "schema:Product"
+    },
+
+    "ReadyMixedConcrete": {
+      "@id": "vulcan:ReadyMixedConcrete",
+      "@type": "schema:Product"
+    },
+
+    "name": {
+      "@id": "schema:name",
+      "@type": "xsd:string"
+    },
+
+    "description": {
+      "@id": "schema:description",
+      "@type": "xsd:string"
+    },
+
+    "location": {
+      "@id": "schema:location",
+      "@type": "@id"
+    },
+
+    "material": {
+      "@id": "schema:material",
+      "@type": "xsd:string"
+    },
+
+    "quantity": {
+      "@id": "schema:quantity",
+      "@type": "schema:QuantitativeValue"
+    },
+
+    "address": {
+      "@id": "schema:address",
+      "@type": "schema:PostalAddress"
+    }
+  }
+}

@@ -1,33 +1,22 @@
-# Vulcan Materials (vulcan-materials)
-Vulcan Materials is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Vulcan Materials.
+# Vulcan Materials Company
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/vulcan-materials/refs/heads/main/apis.yml)
+Vulcan Materials Company is the nation's largest producer of construction aggregates, primarily crushed stone, sand, and gravel, and a major producer of asphalt mix and ready-mixed concrete. Headquartered in Birmingham, Alabama, Vulcan serves all 50 states and operates over 400 quarries and plants. As a Fortune 500 company, Vulcan serves the construction industry with materials critical for roads, bridges, buildings, and infrastructure.
 
-## Scope
+Vulcan Materials does not publish a public developer API ecosystem. Their digital operations focus on internal ERP systems, supplier portals, and customer order management platforms.
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+- **Website:** [https://www.vulcan-materials.com](https://www.vulcan-materials.com)
+- **Investor Relations:** [https://ir.vulcanmaterials.com/](https://ir.vulcanmaterials.com/)
+- **Sustainability:** [https://www.vulcan-materials.com/sustainability](https://www.vulcan-materials.com/sustainability)
+- **Careers:** [https://jobs.vulcanmaterials.com/](https://jobs.vulcanmaterials.com/)
 
-## Tags:
+## Vocabulary
 
- - Fortune 500
+- [Vulcan Materials Vocabulary](vocabulary/vulcan-materials-vocabulary.yml) - Domain vocabulary covering construction aggregates and mining industry terminology
 
-## Timestamps
+## Linked Data
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- [Vulcan Materials JSON-LD Context](json-ld/vulcan-materials-context.jsonld) - JSON-LD context mapping Vulcan Materials concepts to schema.org vocabulary
 
-## APIs
+## Tags
 
-No public APIs have been documented yet. Contributions welcome.
-
-## Common Properties
-
-- [Website](https://www.vulcan-materials.com)
-
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+`Aggregates` `Construction` `Fortune 500` `Infrastructure` `Materials` `Mining`

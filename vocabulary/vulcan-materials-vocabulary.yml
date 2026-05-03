@@ -1,0 +1,103 @@
+name: Vulcan Materials Vocabulary
+description: >-
+  Domain vocabulary for Vulcan Materials Company covering construction aggregates,
+  mining, and infrastructure materials industry terminology.
+version: '1.0.0'
+created: '2026-05-03'
+modified: '2026-05-03'
+tags:
+  - Aggregates
+  - Construction
+  - Infrastructure
+  - Mining
+
+concepts:
+  - term: Aggregates
+    definition: >-
+      Construction aggregates are granular materials including crushed stone, sand,
+      and gravel used as base materials in construction. Aggregates are the most
+      mined materials in the world and essential for roads, buildings, and
+      infrastructure. Vulcan Materials is the largest aggregate producer in the US.
+    related:
+      - Crushed Stone
+      - Sand
+      - Gravel
+
+  - term: Crushed Stone
+    definition: >-
+      Rock fragments produced by mining and crushing hard rock such as limestone,
+      granite, or basalt. Crushed stone is the most widely used construction aggregate
+      and Vulcan's primary product, used in road base, concrete, drainage, and
+      railroad ballast.
+    related:
+      - Aggregates
+      - Quarry
+
+  - term: Quarry
+    definition: >-
+      An open-pit mining operation where rock is extracted by drilling, blasting,
+      and crushing. Vulcan operates over 400 quarries across the United States,
+      producing crushed stone and other aggregate materials.
+    related:
+      - Crushed Stone
+      - Aggregates
+
+  - term: Asphalt Mix
+    definition: >-
+      A mixture of aggregates, binder (typically bitumen/asphalt cement), and filler
+      used for road and pavement construction. Vulcan produces asphalt mix at numerous
+      plants, using their own aggregates as the primary component.
+    related:
+      - Aggregates
+      - Pavement
+
+  - term: Ready-Mixed Concrete
+    definition: >-
+      Concrete that is batched and mixed at a central plant and delivered to construction
+      sites in a transit mixer truck. Vulcan produces ready-mixed concrete in select
+      markets using their aggregates.
+    related:
+      - Aggregates
+      - Construction
+
+  - term: Ton (Short Ton)
+    definition: >-
+      The primary unit of measure for construction aggregates in the United States,
+      equal to 2,000 pounds. Vulcan reports production, sales, and reserves in short
+      tons or millions of tons.
+    related:
+      - Aggregates
+
+  - term: SAB (Segment Adjusted EBITDA by Segment)
+    definition: >-
+      Segment Adjusted EBITDA is the primary financial metric Vulcan uses to measure
+      segment performance, calculated as earnings before interest, taxes, depreciation,
+      amortization, and other adjustments.
+    related:
+      - Financial Performance
+
+  - term: Reserve
+    definition: >-
+      Proven and probable aggregate reserves are measured quantities of rock that
+      can be economically extracted. Vulcan's aggregate reserves are a key indicator
+      of long-term production capacity and land value.
+    related:
+      - Quarry
+      - Aggregates
+
+  - term: Freight-Adjusted Revenue
+    definition: >-
+      Aggregate revenue adjusted to remove freight charges, allowing comparison of
+      aggregate pricing across different geographic markets where freight costs vary
+      significantly.
+    related:
+      - Aggregates
+
+  - term: End Markets
+    definition: >-
+      The construction sectors that consume aggregates, including public infrastructure
+      (highways, bridges), residential construction (housing), and non-residential
+      construction (commercial, industrial, institutional buildings).
+    related:
+      - Aggregates
+      - Construction
