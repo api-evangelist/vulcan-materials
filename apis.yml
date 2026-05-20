@@ -27,6 +27,8 @@ position: Consuming
 apis: []
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/vulcan-materials-company
   - url: https://www.vulcan-materials.com
     type: Website
   - url: https://ir.vulcanmaterials.com/
