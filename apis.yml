@@ -27,6 +27,10 @@ position: Consuming
 apis: []
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/vulcan-materials-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/vulcan-materials-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/vulcan-materials-company
   - url: https://www.vulcan-materials.com
