@@ -10,7 +10,18 @@ description: >-
   and infrastructure. Vulcan does not publish a public developer API ecosystem; their
   digital operations focus on internal ERP systems, supplier portals, and customer
   order management platforms.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vulcan-materials.png
 tags:
   - Aggregates
   - Construction
