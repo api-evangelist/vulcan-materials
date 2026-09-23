@@ -1,7 +1,9 @@
 ---
 title: EPD for Vulcan Materials Corporation
 url: https://www.astm.org/standards-and-solutions/certification/environmental-product-declarations/epd-pcr/epd-for-vulcan-materials-corporation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Vulcan Materials" press release artificial intelligence'
 position: 5
 source: serpapi-google

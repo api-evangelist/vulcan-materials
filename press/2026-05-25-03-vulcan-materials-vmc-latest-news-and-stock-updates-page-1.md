@@ -1,7 +1,9 @@
 ---
 title: Vulcan Materials (VMC) Latest News & Stock Updates - Page 1
 url: https://public.com/stocks/vmc/news
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Vulcan Materials" press release artificial intelligence'
 position: 3
 source: serpapi-google
