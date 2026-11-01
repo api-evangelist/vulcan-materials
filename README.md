@@ -64,23 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Vulcan Materials Company is the nation's largest producer of construction aggregates, primarily crushed stone, sand, and gravel, and a major producer of asphalt mix and ready-mixed concrete. Headquartered in Birmingham, Alabama, Vulcan serves all 50 states and operates over 400 quarries and plants. As a Fortune 500 company, Vulcan serves the construction industry with materials critical for roads, bridges, buildings, and infrastructure.
+Vulcan Materials Company is the nation's largest producer of construction aggregates, primarily crushed stone, sand, and gravel, and a major producer of asphalt mix and ready-mixed concrete. Headquartered in Birmingham, Alabama, Vulcan serves all 50 states and operates over 400 quarries and plants. As a Fortune 500 company, Vulcan serves the construction industry with materials critical for roads, bridges, buildings, and infrastructure. Vulcan does not publish a public developer API ecosystem; their digital operations focus on internal ERP systems, supplier portals, and customer order management platforms.
 
-Vulcan Materials does not publish a public developer API ecosystem. Their digital operations focus on internal ERP systems, supplier portals, and customer order management platforms.
+**Areas:** Aggregates · Construction · Fortune 500 · Infrastructure · Materials · Mining
 
-- **Website:** [https://www.vulcan-materials.com](https://www.vulcan-materials.com)
-- **Investor Relations:** [https://ir.vulcanmaterials.com/](https://ir.vulcanmaterials.com/)
-- **Sustainability:** [https://www.vulcan-materials.com/sustainability](https://www.vulcan-materials.com/sustainability)
-- **Careers:** [https://jobs.vulcanmaterials.com/](https://jobs.vulcanmaterials.com/)
+## Vulcan Materials Company on APIs.io
 
-## Vocabulary
+Everything profiled for Vulcan Materials Company is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vulcan-materials/](https://apis.io/providers/vulcan-materials/)** — or go straight to one of the APIs or properties below.
 
-- [Vulcan Materials Vocabulary](vocabulary/vulcan-materials-vocabulary.yml) - Domain vocabulary covering construction aggregates and mining industry terminology
+### Published properties
 
-## Linked Data
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- [Vulcan Materials JSON-LD Context](json-ld/vulcan-materials-context.jsonld) - JSON-LD context mapping Vulcan Materials concepts to schema.org vocabulary
+#### JSON-LD (1)
 
-## Tags
+Linked-data contexts for the provider's vocabulary.
 
-`Aggregates` `Construction` `Fortune 500` `Infrastructure` `Materials` `Mining`
+- [Vulcan Materials Context](https://apis.io/jsonld/vulcan-materials/vulcan-materials-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Vulcan Materials Vocabulary](https://apis.io/vocabularies/vulcan-materials/vulcan-materials-vocabulary/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Vulcan Materials Domain Security](https://apis.io/security/vulcan-materials/vulcan-materials-domain-security/)
+- [Vulcan Materials Vulnerability Disclosure](https://apis.io/security/vulcan-materials/vulcan-materials-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vulcan-materials.com)
+
+## API Evangelist rating
+
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vulcan-materials/](https://apis.io/providers/vulcan-materials/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Vulcan Materials Company: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/vulcan-materials/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
